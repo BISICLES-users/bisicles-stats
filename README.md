@@ -1,2 +1,3 @@
-# bisicles-stats-df
-Runs the stats module in BISICLES and creates a dataframe
+# BISICLES Stats Analysis
+
+Functions which relate to the BISICLES stats file tool. 
