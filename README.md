@@ -12,7 +12,7 @@ Functions which relate to the BISICLES stats file tool.
 
 ### `amrstats_functions.py`
 
-Functions which run the stats file tool and output a pandas dataframe, can be run both with or without a mask file. 
+Functions which run the stats file tool and outputs a pandas dataframe, can be run both with or without a mask file. 
 
 ### `LRF_functions.py`
 
