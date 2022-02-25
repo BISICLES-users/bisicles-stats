@@ -14,6 +14,6 @@ Functions which relate to the BISICLES stats file tool.
 
 Functions which run the stats file tool and output a pandas dataframe, they can be run both with or without a mask file. 
 
-### `LRF_function.py`
+### `LRF_functions.py`
 
 Functions that use the output from `amrstats_functions.py` and creates additional columns calculating the Linear Response functions from [Levermann et al. (2020)]( https://esd.copernicus.org/articles/11/35/2020/) as well as a 10-year running mean. 
